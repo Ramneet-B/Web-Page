@@ -1,0 +1,32 @@
+
+tbody {
+  color: green;
+}
+body {
+  background-color: black;
+  font-family: sans-serif;
+  color: white;
+}
+div h1 {
+  color: #0f9;
+  border: 3px solid #0f9;
+  border-radius: 8px;
+  font-size: 80;
+}
+  h2 {
+    color: skyblue;
+    padding-left: 800px;
+    font-size: 60;
+  }
+  img {
+    width: 100px;
+    height: 100px;
+    padding-left: 800px; 
+  }
+div h3 {
+  border: 3px solid #91f;
+  border-radius:8px;
+  text-decoration: underline #fff;
+  padding-left: 800;
+  font-size: 40
+}
